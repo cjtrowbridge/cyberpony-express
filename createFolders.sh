@@ -1,3 +1,4 @@
+#!/bin/bash
 mkdir -p "Childhood Education/Math/Numerical Literacy"
 mkdir -p "Childhood Education/Math/Operational Skills"
 mkdir -p "Childhood Education/Math/Algebraic Reasoning & Advanced Math"
