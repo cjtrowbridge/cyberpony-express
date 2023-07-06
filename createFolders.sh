@@ -1,5 +1,4 @@
 #!/bin/bash
-#!/bin/bash
 mkdir -p "Reference Library/Encyclopedias"
 mkdir -p "Reference Library/Dictionaries"
 mkdir -p "Reference Library/Thesauruses"
@@ -77,6 +76,12 @@ mkdir -p "Enrichment/Environmental Studies/Natural Disaster Preparedness"
 mkdir -p "Enrichment/Environmental Studies/Renewable Resource Management"
 mkdir -p "Enrichment/Economics/Neoclassical Economics"
 mkdir -p "Enrichment/Economics/Marxist Economics"
+mkdir -p "Enrichment/Economics/Keynesian Economics"
+mkdir -p "Enrichment/Economics/Post Keynesian Economics"
+mkdir -p "Enrichment/Economics/Austrian Economics"
+mkdir -p "Enrichment/Economics/Behavioral Economics"
+mkdir -p "Enrichment/Economics/Feminist Economics"
+mkdir -p "Enrichment/Economics/"Green Economics 
 mkdir -p "Enrichment/Life Skills (e.g. self-care, communication, etc.)/Conflict Resolution and Negotiation"
 mkdir -p "Enrichment/Life Skills (e.g. self-care, communication, etc.)/Organizational Strategy and Planning"
 mkdir -p "Enrichment/Life Skills (e.g. self-care, communication, etc.)/Critical Thinking & Problem Solving"
